@@ -15,7 +15,7 @@ setuptools.setup(
   long_description=long_description,
   long_description_content_type="text/markdown",     
   url = 'https://github.com/vaish1999/Download-insta-posts',  
-  download_url = 'https://github.com/vaish1999/Download-insta-posts/archive/v1.0.tar.gz',   
+  download_url = 'https://github.com/vaish1999/Download-insta-posts/archive/v2.0.tar.gz',   
   keywords = ['instagram', 'download', 'profile','picture','post','python'],   
   install_requires=[
         'beautifulsoup4',
